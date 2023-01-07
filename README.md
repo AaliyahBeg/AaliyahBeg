@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning python and exploring exciting python libraries
 
-💻 Competitive Programmer...
+💻 Budding Programmer...
 
 👯 I’m looking to collaborate on projects with great cause!
 
