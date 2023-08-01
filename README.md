@@ -6,6 +6,7 @@
 
 👯 I’m looking to collaborate on projects with great cause!
 
+⚡ SRFP Intern'23 @ SPL, KCIS, LTRC, IIITH
 ⚡ SIH Winner'22
 ⚡ Im currently working with The Girl Code as a Chapter Intern and Girl Code It Pune as a Graphic Designing Lead, both for the cause of empowering women in tech and creating a healthy and amazing community for the same.
 ⚡ Passionate Artist, have had newspaper mention in the Hindustan Times for winning the HT Pace Challenge.
