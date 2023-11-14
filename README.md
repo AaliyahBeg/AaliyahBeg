@@ -6,11 +6,12 @@
 
 👯 I’m looking to collaborate on projects with great cause!
 
-- ⚡ SRFP Intern'23 @ SPL, KCIS, LTRC, IIITH
-- ⚡ SIH Winner'22
-- ⚡ Im currently working with The Girl Code as a Chapter Intern and Girl Code It Pune as a Graphic Designing Lead, both for the cause of empowering women in tech and creating a healthy and amazing community for the same.
-- ⚡ Passionate Artist, have had newspaper mention in the Hindustan Times for winning the HT Pace Challenge.
-- ⚡ Awarded Scholarship to attend the Harvard WECode Conference 2022 and 2023.
+⚡ SRFP Intern'23 @ SPL, KCIS, LTRC, IIITH <br>
+⚡ SIH Winner'22 <br>
+⚡ Im currently working with The Girl Code as a Chapter Intern and Girl Code It Pune as a Graphic Designing Lead, both for the cause of empowering women in tech and creating a healthy 
+and amazing community for the same. <br>
+⚡ Passionate Artist, have had newspaper mention in the Hindustan Times for winning the HT Pace Challenge. <br>
+⚡ Awarded Scholarship to attend the Harvard WECode Conference 2022 and 2023. <br>
 
 <!--
 **AaliyahBeg/AaliyahBeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
