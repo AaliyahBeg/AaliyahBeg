@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi there, I'm a Software Developer @ ServiceNow 👋
 
-🌱 I’m currently learning python and exploring exciting python libraries
+🌱 I’m currently learning Python and exploring exciting Python libraries for personal growth
 
 💻 Budding Programmer...
 
 👯 I’m looking to collaborate on projects with great cause!
 
+⚡ ASE 6-months Intern'24 @ ServiceNow <br>
 ⚡ SRFP Intern'23 @ SPL, KCIS, LTRC, IIITH <br>
 ⚡ SIH Winner'22 <br>
-⚡ Im currently working with The Girl Code as a Chapter Intern and Girl Code It Pune as a Graphic Designing Lead, both for the cause of empowering women in tech and creating a healthy 
+⚡ I'm currently working with The Girl Code as a Chapter Intern and Girl Code It Pune as a Graphic Designing Lead, both for the cause of empowering women in tech and creating a healthy 
 and amazing community for the same. <br>
 ⚡ Passionate Artist, have had newspaper mention in the Hindustan Times for winning the HT Pace Challenge. <br>
 ⚡ Awarded Scholarship to attend the Harvard WECode Conference 2022 and 2023. <br>
